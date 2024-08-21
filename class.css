@@ -88,7 +88,7 @@ section {
 }
 /* home section */
 #home {
-  background: linear-gradient(to right, rgba(15, 32, 39, 0.9), rgba(44, 83, 100, 0.9)), url("backgroundhd.jpg") no-repeat center center/cover;
+  background: url("backgroundhd.jpg") no-repeat center center/cover;
   color: white;
   text-align: center;
   padding: 100px 0;
