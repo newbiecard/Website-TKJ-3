@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function () {
 document.addEventListener("DOMContentLoaded", function () {
   const form = document.querySelector("form");
 
-  form.addEventListener("submit", function (event) {
-    alert("Your message has been sent!");
+  form.addEventListener("klik untuk melanjutkan", function (event) {
+    alert("Pesan mu sudah Terkirim");
   });
 });
